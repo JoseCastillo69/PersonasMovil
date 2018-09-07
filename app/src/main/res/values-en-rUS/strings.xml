@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MobilePersons</string>
+    <string name="id">#</string>
+    <string name="titulo">registration</string>
+    <string name="cedula">ID</string>
+    <string name="nombre">First Name</string>
+    <string name="apellido">Last Name</string>
+    <string name="guardar">Save</string>
+    <string name="limpiar">Clear</string>
+    <string name="registrar">To Register</string>
+    <string name="listar">To List</string>
+    <string-array name="opciones">
+        <item>@string/registrar</item>
+        <item>@string/listar</item>
+    </string-array>
+
+</resources>
