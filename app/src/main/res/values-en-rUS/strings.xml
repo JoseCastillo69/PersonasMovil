@@ -14,5 +14,6 @@
         <item>@string/registrar</item>
         <item>@string/listar</item>
     </string-array>
+    <string name="mensaje">Person successfully saved</string>
 
 </resources>
